@@ -2,6 +2,8 @@
 
 .DS_Store
 
+img/.DS_Store
+
 # Ignore local scripts.
 run.sh
 
