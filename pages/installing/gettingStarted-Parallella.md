@@ -20,7 +20,7 @@ This guide will walk you through getting a [Parallella][parallella-link] board h
 __NOTE:__ If you're not experienced with [git][git], check out the excellent
 [Try Git][try-git] course at [Code School][code-school].
 
-If you already have a resin.io account and just want to get started with your Raspberry Pi, then skip ahead to [Creating Your First Application](/#/pages/installing/gettingStarted-Parallella.md#creating-your-first-application).
+If you already ha a resin.io account and just want to get started with your Parallella, then skip ahead to [Creating Your First Application](/#/pages/installing/gettingStarted-Parallella.md#creating-your-first-application).
 
 ## Signing Up
 
@@ -115,7 +115,7 @@ This process can take anywhere from 5-30 minutes depending on the speed of your 
 
 #### From a GUI
 
-Alternatively you can use the GUI program [PiFiller][pifiller-download] to burn the SD card, although this looks like it is made specifically for the Raspberry Pi, don't worry, it works just the same.
+Alternatively you can use the GUI program [PiFiller][pifiller-download] to burn the SD card, although this looks like it is made specifically for the Parallella, don't worry, it works just the same.
 
 Once downloaded, launch Pi Filler, and follow the on-screen prompts. The first thing it will ask is for you to locate your `.img` file.
 
@@ -139,13 +139,13 @@ __NOTE:__ Be very careful to make sure that you have selected the right SD card.
 
 Once you have made your selections and are 100% sure you are writing to your SD card and nothing else, you can click write and wait for the SD card to be burned.
 
-Once it is completed, you can carry on setting up your raspberry pi as shown below.
+Once it is completed, you can carry on setting up your Parallella as shown below.
 
 ## Setting Up Your Device
 
 Put the SD card into your device and connect either the ethernet cable or WiFi adapter. If you're connecting the cable to your computer, you'll need to enable connection sharing. Now power up the device by inserting the USB cable.
 
-It will take a few minutes for the raspberry pi to appear on your resin.io dashboard, so take this time to grab some tea while you wait.
+It will take a few minutes for the Parallella to appear on your resin.io dashboard, so take this time to grab some tea while you wait.
 
 While you wait resin.io is expanding the partitioning on your SD card, installing a custom linux environment and establishing a secure connection with our servers.
 
